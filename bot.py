@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from PIL import Image
 import io
 
-API_TOKEN = 'ضع_توكن_البوت_هنا'
+API_TOKEN =8109350774:AAGhyFMgdVXD59y7k8x5Hwr6PIhzP1hM9xc 'ضع_توكن_البوت_هنا'
 
 # إعدادات اللوق
 logging.basicConfig(level=logging.INFO)
