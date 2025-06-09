@@ -1,0 +1,4 @@
+aiogram
+pillow
+
+python-telegram-bot==20.3
