@@ -1,4 +1,5 @@
 aiogram
 pillow
-
+pyTelegramBotAPI==4.13.0
+Pillow
 python-telegram-bot==20.3
